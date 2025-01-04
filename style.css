@@ -1,0 +1,18 @@
+
+h2
+{
+    margin: 0;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    
+}
+
+
+.media-buttons
+{
+    display: flex;
+    align-items: start;
+    align-content: space-between;
+    
+}
